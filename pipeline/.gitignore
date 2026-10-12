@@ -1,0 +1,23 @@
+# ---- local-only / history / scratch ----
+_archive/
+_scratch/
+logs/
+_qa/
+__pycache__/
+*.pyc
+
+# ---- figure pipeline internals (intermediate renderings & probe scripts) ----
+_preview_v5/_rfig4_probe.py
+_preview_v5/_preview/
+_preview_v5/_qa/
+
+# ---- local data (never committed; download from public sources per README) ----
+data/
+results/
+raw/
+*.rds
+*.h5ad
+
+# ---- OS / editor ----
+.DS_Store
+Thumbs.db

@@ -1,0 +1,12 @@
+# ---- external data & outputs (never committed; download per README) ----
+data/
+results/
+raw/
+*.rds
+*.h5ad
+
+# ---- OS / editor / python ----
+.DS_Store
+Thumbs.db
+__pycache__/
+*.pyc

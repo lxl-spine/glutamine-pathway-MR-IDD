@@ -1,0 +1,99 @@
+﻿gene_set,short_label,gene,source
+KEGG_D-Glutamine_and_D-glutamate_metabolism,KEGG Gln/Glu metabolism,GLS,KEGG
+KEGG_D-Glutamine_and_D-glutamate_metabolism,KEGG Gln/Glu metabolism,GLS2,KEGG
+KEGG_D-Glutamine_and_D-glutamate_metabolism,KEGG Gln/Glu metabolism,GLUD1,KEGG
+KEGG_D-Glutamine_and_D-glutamate_metabolism,KEGG Gln/Glu metabolism,GLUD2,KEGG
+KEGG_D-Glutamine_and_D-glutamate_metabolism,KEGG Gln/Glu metabolism,GOT1,KEGG
+KEGG_D-Glutamine_and_D-glutamate_metabolism,KEGG Gln/Glu metabolism,GOT2,KEGG
+KEGG_D-Glutamine_and_D-glutamate_metabolism,KEGG Gln/Glu metabolism,GPT,KEGG
+KEGG_D-Glutamine_and_D-glutamate_metabolism,KEGG Gln/Glu metabolism,GPT2,KEGG
+KEGG_D-Glutamine_and_D-glutamate_metabolism,KEGG Gln/Glu metabolism,GLUL,KEGG
+KEGG_Alanine_aspartate_glutamate_metabolism,KEGG Ala/Asp/Glu metab.,GOT1,KEGG
+KEGG_Alanine_aspartate_glutamate_metabolism,KEGG Ala/Asp/Glu metab.,GOT2,KEGG
+KEGG_Alanine_aspartate_glutamate_metabolism,KEGG Ala/Asp/Glu metab.,GPT,KEGG
+KEGG_Alanine_aspartate_glutamate_metabolism,KEGG Ala/Asp/Glu metab.,GPT2,KEGG
+KEGG_Alanine_aspartate_glutamate_metabolism,KEGG Ala/Asp/Glu metab.,GAD1,KEGG
+KEGG_Alanine_aspartate_glutamate_metabolism,KEGG Ala/Asp/Glu metab.,GAD2,KEGG
+KEGG_Alanine_aspartate_glutamate_metabolism,KEGG Ala/Asp/Glu metab.,GLUD1,KEGG
+KEGG_Alanine_aspartate_glutamate_metabolism,KEGG Ala/Asp/Glu metab.,GLUD2,KEGG
+KEGG_Alanine_aspartate_glutamate_metabolism,KEGG Ala/Asp/Glu metab.,ASNS,KEGG
+KEGG_Alanine_aspartate_glutamate_metabolism,KEGG Ala/Asp/Glu metab.,ASNSD1,KEGG
+KEGG_Alanine_aspartate_glutamate_metabolism,KEGG Ala/Asp/Glu metab.,ASL,KEGG
+KEGG_Alanine_aspartate_glutamate_metabolism,KEGG Ala/Asp/Glu metab.,ASS1,KEGG
+KEGG_Alanine_aspartate_glutamate_metabolism,KEGG Ala/Asp/Glu metab.,CAD,KEGG
+KEGG_Alanine_aspartate_glutamate_metabolism,KEGG Ala/Asp/Glu metab.,CTPS1,KEGG
+KEGG_Alanine_aspartate_glutamate_metabolism,KEGG Ala/Asp/Glu metab.,CTPS2,KEGG
+KEGG_Alanine_aspartate_glutamate_metabolism,KEGG Ala/Asp/Glu metab.,GLS,KEGG
+KEGG_Alanine_aspartate_glutamate_metabolism,KEGG Ala/Asp/Glu metab.,GLS2,KEGG
+KEGG_Alanine_aspartate_glutamate_metabolism,KEGG Ala/Asp/Glu metab.,GLUL,KEGG
+KEGG_Alanine_aspartate_glutamate_metabolism,KEGG Ala/Asp/Glu metab.,PPAT,KEGG
+KEGG_Alanine_aspartate_glutamate_metabolism,KEGG Ala/Asp/Glu metab.,NFS1,KEGG
+KEGG_Alanine_aspartate_glutamate_metabolism,KEGG Ala/Asp/Glu metab.,CPS1,KEGG
+KEGG_Alanine_aspartate_glutamate_metabolism,KEGG Ala/Asp/Glu metab.,SLC25A12,KEGG
+KEGG_Alanine_aspartate_glutamate_metabolism,KEGG Ala/Asp/Glu metab.,SLC25A13,KEGG
+KEGG_Alanine_aspartate_glutamate_metabolism,KEGG Ala/Asp/Glu metab.,SLC1A5,KEGG
+KEGG_Alanine_aspartate_glutamate_metabolism,KEGG Ala/Asp/Glu metab.,SLC38A3,KEGG
+KEGG_Alanine_aspartate_glutamate_metabolism,KEGG Ala/Asp/Glu metab.,SLC38A4,KEGG
+Reactome_Glutamate_neurotransmitter_release,Reactome Glu release,SLC1A5,Reactome
+Reactome_Glutamate_neurotransmitter_release,Reactome Glu release,SLC7A5,Reactome
+Reactome_Glutamate_neurotransmitter_release,Reactome Glu release,SLC38A1,Reactome
+Reactome_Glutamate_neurotransmitter_release,Reactome Glu release,SLC38A2,Reactome
+Reactome_Glutamate_neurotransmitter_release,Reactome Glu release,SLC38A3,Reactome
+Reactome_Glutamate_neurotransmitter_release,Reactome Glu release,SLC38A4,Reactome
+Reactome_Glutamate_neurotransmitter_release,Reactome Glu release,SLC38A7,Reactome
+Reactome_Glutamate_neurotransmitter_release,Reactome Glu release,SLC38A9,Reactome
+Reactome_Glutamate_neurotransmitter_release,Reactome Glu release,SLC7A6,Reactome
+Reactome_Glutamate_neurotransmitter_release,Reactome Glu release,SLC7A7,Reactome
+Reactome_Glutamate_neurotransmitter_release,Reactome Glu release,SLC7A11,Reactome
+Reactome_Glutamate_neurotransmitter_release,Reactome Glu release,GLS,Reactome
+Reactome_Glutamate_neurotransmitter_release,Reactome Glu release,GLUD1,Reactome
+Reactome_Glutamate_neurotransmitter_release,Reactome Glu release,GOT1,Reactome
+Reactome_Glutamate_neurotransmitter_release,Reactome Glu release,GOT2,Reactome
+Reactome_Glutamate_neurotransmitter_release,Reactome Glu release,GLUL,Reactome
+GO_Glutamine_metabolic_process,GO Glutamine proc.,GLS,GO
+GO_Glutamine_metabolic_process,GO Glutamine proc.,GLS2,GO
+GO_Glutamine_metabolic_process,GO Glutamine proc.,GLUL,GO
+GO_Glutamine_metabolic_process,GO Glutamine proc.,GLUD1,GO
+GO_Glutamine_metabolic_process,GO Glutamine proc.,GLUD2,GO
+GO_Glutamine_metabolic_process,GO Glutamine proc.,GPT,GO
+GO_Glutamine_metabolic_process,GO Glutamine proc.,GPT2,GO
+GO_Glutamine_metabolic_process,GO Glutamine proc.,GOT1,GO
+GO_Glutamine_metabolic_process,GO Glutamine proc.,GOT2,GO
+GO_Glutamine_metabolic_process,GO Glutamine proc.,ASNS,GO
+GO_Glutamine_metabolic_process,GO Glutamine proc.,ASNSD1,GO
+GO_Glutamine_metabolic_process,GO Glutamine proc.,CAD,GO
+GO_Glutamine_metabolic_process,GO Glutamine proc.,CTPS1,GO
+GO_Glutamine_metabolic_process,GO Glutamine proc.,CTPS2,GO
+GO_Glutamine_metabolic_process,GO Glutamine proc.,GFPT1,GO
+GO_Glutamine_metabolic_process,GO Glutamine proc.,GFPT2,GO
+GO_Glutamate_metabolic_process,GO Glutamate proc.,GLS,GO
+GO_Glutamate_metabolic_process,GO Glutamate proc.,GLS2,GO
+GO_Glutamate_metabolic_process,GO Glutamate proc.,GLUD1,GO
+GO_Glutamate_metabolic_process,GO Glutamate proc.,GLUD2,GO
+GO_Glutamate_metabolic_process,GO Glutamate proc.,GAD1,GO
+GO_Glutamate_metabolic_process,GO Glutamate proc.,GAD2,GO
+GO_Glutamate_metabolic_process,GO Glutamate proc.,GPT,GO
+GO_Glutamate_metabolic_process,GO Glutamate proc.,GPT2,GO
+GO_Glutamate_metabolic_process,GO Glutamate proc.,GOT1,GO
+GO_Glutamate_metabolic_process,GO Glutamate proc.,GOT2,GO
+GO_Glutamate_metabolic_process,GO Glutamate proc.,ASNS,GO
+GO_Glutamate_metabolic_process,GO Glutamate proc.,ASNSD1,GO
+GO_Glutamate_metabolic_process,GO Glutamate proc.,GLUL,GO
+GO_Glutamate_metabolic_process,GO Glutamate proc.,GCLM,GO
+GO_Glutamate_metabolic_process,GO Glutamate proc.,GCLC,GO
+GO_Glutamate_metabolic_process,GO Glutamate proc.,GSR,GO
+GO_Glutamate_metabolic_process,GO Glutamate proc.,GSS,GO
+Custom_transport_mitochondrial,Custom: transport/mito,SLC1A5,Custom
+Custom_transport_mitochondrial,Custom: transport/mito,SLC38A1,Custom
+Custom_transport_mitochondrial,Custom: transport/mito,SLC38A2,Custom
+Custom_transport_mitochondrial,Custom: transport/mito,SLC38A3,Custom
+Custom_transport_mitochondrial,Custom: transport/mito,SLC38A4,Custom
+Custom_transport_mitochondrial,Custom: transport/mito,SLC38A5,Custom
+Custom_transport_mitochondrial,Custom: transport/mito,SLC38A7,Custom
+Custom_transport_mitochondrial,Custom: transport/mito,SLC38A9,Custom
+Custom_transport_mitochondrial,Custom: transport/mito,SLC25A12,Custom
+Custom_transport_mitochondrial,Custom: transport/mito,SLC25A13,Custom
+Custom_transport_mitochondrial,Custom: transport/mito,SLC7A5,Custom
+Custom_transport_mitochondrial,Custom: transport/mito,SLC7A6,Custom
+Custom_transport_mitochondrial,Custom: transport/mito,SLC7A7,Custom
+Custom_transport_mitochondrial,Custom: transport/mito,SLC7A11,Custom
